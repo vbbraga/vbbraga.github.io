@@ -56,10 +56,11 @@ main {
 }
 
 .body {
-    width: 1200px;
+    width: calc(100%);
     align-self: baseline;
-    margin-top: 25px;
-    margin-left: -80px;
+    margin-top: calc(100% * 5/288);
+    margin-left:calc(100%/18);
+    margin-right:calc(100%/9);
 }
 
 .song{
