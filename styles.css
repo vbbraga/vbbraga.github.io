@@ -10,13 +10,13 @@ body {
 header {
     background-color: #f3e5f5;
     border-bottom: 1px solid #ccc;
-    padding: 10px 20px;
+    padding: 10px 0px 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: fixed; /* Make the header fixed */
     top: 0;
-    width: 98%;
+    width: 100%;
     z-index: 1000;
 }
 
